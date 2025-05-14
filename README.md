@@ -1,4 +1,4 @@
-### Hi there 👋. I am Yusuf DOGAN. I am a 2nd year computer engineering student at Marmara University.
+### Hi there 👋. I am Yusuf DOGAN. I am a 4nd year computer engineering student at Marmara University.
 I prepare myself for teamwork with clean and functional code.
 - 🔭 I’m currently working on python and java.
 - 🌱 I’m currently learning react.
